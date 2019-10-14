@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         constraintLayout = (ConstraintLayout)findViewById(R.id.a);
         play();
     }
-
     public void stop(View v)
     {
         finish();
